@@ -1,0 +1,5 @@
+.centerItem{
+	width: calc(90%);
+	margin:auto;
+	text-align: center;
+}
